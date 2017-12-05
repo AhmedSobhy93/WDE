@@ -1,0 +1,165 @@
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.module-config
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.pdb
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Commons.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Composite.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Tomers.WPF.Localization.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Lucene.Net.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.OpenMedia.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\NHunspell.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Utility.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.csprojResolveAssemblyReference.cache
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\DispositionCodeEx\DispositionCodeExView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Huawei CRM AZF Nar\sampleButtonView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Zed Appplication\MySampleButtonView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Zed Appplication\MySampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleMenuView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\DispositionCodeEx\DispositionCodeExView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleMenuView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Huawei CRM AZF Nar\sampleButtonView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Huawei CRM AZF Nar\sampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Zed Appplication\MySampleButtonView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Zed Appplication\MySampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\view\ITabView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleMenuView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample_MarkupCompile.cache
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample_MarkupCompile.lref
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleMenuView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu Huawei CRM AZF Nar\sampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\view\ITabView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.g.resources
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.Properties.Resources.resources
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.csproj.GenerateResource.Cache
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition azer connect\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.pdb
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.module-config
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.ExtensionSample.pdb
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Commons.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Composite.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Tomers.WPF.Localization.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Lucene.Net.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Desktop.Modules.OpenMedia.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\NHunspell.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Utility.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Fixed Application\MySampleViewPageApexFixed.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Nar Application\MySampleMenuViewApex.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Cube application\sampleMenuViewCube.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Cube application\sampleViewCube.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\DispositionCodeEx\DispositionCodeExView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR AZF Nar Application\MySampleMenuViewHLR.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR AZF Nar Application\MySampleViewPageHLR.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu ApexBKC\MySampleButtonViewApexBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu ApexBKC\MySampleViewApexBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXNARApplication Appplication\MySampleButtonViewCube.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXNARApplication Appplication\MySampleViewCube.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR AZF Nar Application\MySampleButtonViewSlideHLR.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR AZF Nar Application\MySampleViewSlideHLR.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR BKC Appplication\MySampleButtonViewHLRBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu XDRview Application\sampleButtonView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXAZFFIXED Appplication\MySampleButtonView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXAZFFIXED Appplication\MySampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\XDR View BKC Application\MySampleMenuViewHLRXDRViewBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\XDR View BKC Application\MySampleViewPageXDRViewBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleMenuView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Fixed Application\MySampleMenuViewApexFixed.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Fixed Application\MySampleViewPageApexFixed.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Nar Application\MySampleMenuViewApex.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Nar Application\MySampleViewPageApex.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX BKC Application\MySampleMenuViewApexBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX BKC Application\MySampleViewPageApexBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Cube application\sampleMenuViewCube.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Cube application\sampleViewCube.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\DispositionCodeEx\DispositionCodeExView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR AZF Nar Application\MySampleMenuViewHLR.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR AZF Nar Application\MySampleViewPageHLR.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR BKC Application\MySampleMenuViewHLRBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR BKC Application\MySampleViewPageHLRBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleMenuView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM BKC Application\MySampleMenuViewHuaweiCRMBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM BKC Application\MySampleViewPageHuaweiCRMBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu ApexBKC\MySampleButtonViewApexBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu ApexBKC\MySampleViewApexBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXNARApplication Appplication\MySampleButtonViewCube.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXNARApplication Appplication\MySampleViewCube.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR AZF Nar Application\MySampleButtonViewSlideHLR.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR AZF Nar Application\MySampleViewSlideHLR.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR BKC Appplication\MySampleButtonViewHLRBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR BKC Appplication\MySampleViewHLRBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu XDRview Application\sampleButtonView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu XDRview Application\sampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXAZFFIXED Appplication\MySampleButtonView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu APEXAZFFIXED Appplication\MySampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\view\ITabView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\XDR View BKC Application\MySampleMenuViewHLRXDRViewBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\XDR View BKC Application\MySampleViewPageXDRViewBKC.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleMenuView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Zed Application\MySampleView.g.cs
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample_MarkupCompile.cache
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample_MarkupCompile.lref
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Fixed Application\MySampleMenuViewApexFixed.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX AZF Nar Application\MySampleViewPageApex.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX BKC Application\MySampleMenuViewApexBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\APEX BKC Application\MySampleViewPageApexBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR BKC Application\MySampleMenuViewHLRBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\HLR BKC Application\MySampleViewPageHLRBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleMenuView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM AZF Nar\sampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM BKC Application\MySampleMenuViewHuaweiCRMBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Huawei CRM BKC Application\MySampleViewPageHuaweiCRMBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu HLR BKC Appplication\MySampleViewHLRBKC.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\slidemenu XDRview Application\sampleView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\view\ITabView.baml
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.g.resources
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.Properties.Resources.resources
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.csproj.GenerateResource.Cache
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.dll
+F:\Azer Connect\GCTI\Workspace Desktop Edition\Samples\Genesyslab.Desktop.Modules.ExtensionSample\obj\Debug\Genesyslab.Desktop.Modules.ExtensionSample.pdb

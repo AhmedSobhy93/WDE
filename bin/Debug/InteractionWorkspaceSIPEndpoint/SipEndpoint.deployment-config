@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="DeploymentManager.ApplicationSettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+
+  <applicationSettings>
+    <DeploymentManager.ApplicationSettings>
+
+      <setting name="DeploymentName" serializeAs="String">
+        <value>Sip Endpoint</value>
+      </setting>
+      <setting name="StandaloneDisplayName" serializeAs="String">
+        <value>Workspace Desktop Sip Endpoint standalone</value>
+      </setting>
+
+      <setting name="MandatoryFiles" serializeAs="Xml">
+        <value>
+          <ArrayOfApplicationFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+            <ApplicationFile FileName="Genesyslab.Core.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Commons.Collections.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Commons.Connection.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Commons.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Commons.Protocols.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Logging.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Platform.Management.Protocols.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Sip.Endpoint.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Genesyslab.Sip.Endpoint.Provider.Genesys.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="InteractionWorkspaceSIPEndpoint.exe" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="InteractionWorkspaceSIPEndpoint.exe.config" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libffi-6.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libgio-2.0-0.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libglib-2.0-0.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libgmodule-2.0-0.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libgobject-2.0-0.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libgthread-2.0-0.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libiconv-2.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libintl-8.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="libnice.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="SipEndpoint.config" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="zlib1.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.Composite.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.Composite.UnityExtensions.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.Composite.Wpf.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.ObjectBuilder2.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.Unity.Configuration.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="Microsoft.Practices.Unity.dll" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="ResourcesDefinition.xml" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="ResourcesDefinition85.xml" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+            <ApplicationFile FileName="icon.ico" RelativePath="InteractionWorkspaceSIPEndpoint" DataFile="false" EntryPoint="false" IsMainConfigFile="false" Optional="true" GroupName="SIPEndpoint" />
+          </ArrayOfApplicationFile>
+        </value>
+      </setting>
+    </DeploymentManager.ApplicationSettings>
+  </applicationSettings>
+</configuration>

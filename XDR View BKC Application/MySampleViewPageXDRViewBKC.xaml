@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="Genesyslab.Desktop.Modules.ExtensionSample.XDR_View_BKC_Application.MySampleViewPageXDRViewBKC"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="220" Width="279" MinWidth="200" MinHeight="200">
+
+    <Grid>
+        <!-- Web Browser Control that hosts a web page. -->
+
+        <WebBrowser x:Name="zedApplicationLink" Source="https://xdrview.bakcell.com/xdrview/login.bakcell"/>
+    </Grid>
+</UserControl>
+

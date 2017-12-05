@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F9BC014-A245-4ED5-98E9-DDB8CCC8850B}</ProjectGuid>
+    <OutputType>library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Genesyslab.Desktop.Modules.ExtensionSample</RootNamespace>
+    <AssemblyName>Genesyslab.Desktop.Modules.ExtensionSample</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DirectShowLib-2005">
+      <HintPath>bin\Debug\InteractionWorkspace\DirectShowLib-2005.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Core">
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Infrastructure, Version=8.0.1.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Desktop.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Contacts, Version=8.5.114.8, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Desktop.Modules.Contacts.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Core, Version=8.0.1.5, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Desktop.Modules.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.InteractionBar, Version=8.5.114.8, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Desktop.Modules.InteractionBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Outbound, Version=8.5.114.8, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Desktop.Modules.Outbound.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Voice, Version=8.1.0.21, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Desktop.Modules.Voice.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.VoiceMail, Version=8.5.114.8, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Desktop.Modules.VoiceMail.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.Modules.Windows, Version=8.0.1.5, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Desktop.Modules.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Desktop.WPFCommon, Version=8.0.1.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Desktop.WPFCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Agent, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Agent.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Core, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Exceptions, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Extensions, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Framework, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Logger, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Model, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7" />
+    <Reference Include="Genesyslab.Enterprise.Protocols, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.PSDKExtensions, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.PSDKExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services.Contact, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Services.Contact.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services.Multimedia, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Services.Multimedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.Services.Multimedia.Email, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.Services.Multimedia.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Enterprise.SwitchAbstraction, Version=8.5.114.2, Culture=neutral, PublicKeyToken=95e512acdb150ec7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Enterprise.SwitchAbstraction.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.Commons, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.ApplicationBlocks.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.Commons.Broker, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.Commons.Protocols, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60" />
+    <Reference Include="Genesyslab.Platform.ApplicationBlocks.WarmStandby, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons, Version=8.0.0.1, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Genesyslab.Platform.Commons.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Collections, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Commons.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Collections.Binding, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Commons.Collections.Binding.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Connection, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Commons.Connection.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Commons.Protocols, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Commons.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Configuration.Protocols, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60" />
+    <Reference Include="Genesyslab.Platform.Contacts.Protocols">
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Contacts.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Logging, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.Voice.Protocols, Version=8.5.201.6, Culture=neutral, PublicKeyToken=2248646200015f60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.Voice.Protocols.dll</HintPath>
+    </Reference>
+    <Reference Include="Genesyslab.Platform.WebMedia.Protocols.EspEmail">
+      <HintPath>bin\Debug\InteractionWorkspace\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>bin\Debug\InteractionWorkspace\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\InteractionWorkspace\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Composite, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Microsoft.Practices.Composite.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Composite.UnityExtensions">
+      <HintPath>bin\Debug\InteractionWorkspace\Microsoft.Practices.Composite.UnityExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Composite.Wpf, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Microsoft.Practices.Composite.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Caching">
+      <HintPath>bin\Debug\InteractionWorkspace\Microsoft.Practices.EnterpriseLibrary.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>bin\Debug\InteractionWorkspace\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Configuration">
+      <HintPath>bin\Debug\InteractionWorkspace\Microsoft.Practices.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web">
+      <HintPath>packages\SystemWebPackage.1.0.0\lib\System.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="Tomers.WPF.Localization, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\InteractionWorkspace\Tomers.WPF.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APEX AZF Fixed Application\IMyExtensionSampleViewApexFixed.cs" />
+    <Compile Include="APEX AZF Fixed Application\IMyExtensionSampleViewModelApexFixed.cs" />
+    <Compile Include="APEX AZF Fixed Application\IMySampleMenuViewApexFixed.cs" />
+    <Compile Include="APEX AZF Fixed Application\MySampleMenuViewApexFixed.xaml.cs">
+      <DependentUpon>MySampleMenuViewApexFixed.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="APEX AZF Fixed Application\MySampleViewModelApexFixed.cs" />
+    <Compile Include="APEX AZF Fixed Application\MySampleViewPageApexFixed.xaml.cs">
+      <DependentUpon>MySampleViewPageApexFixed.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="APEX AZF Nar Application\IMyExtensionSampleViewApex.cs" />
+    <Compile Include="APEX AZF Nar Application\IMyExtensionSampleViewModelApex.cs" />
+    <Compile Include="APEX AZF Nar Application\IMySampleMenuViewApex.cs" />
+    <Compile Include="APEX AZF Nar Application\MySampleMenuViewApex.xaml.cs">
+      <DependentUpon>MySampleMenuViewApex.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="APEX AZF Nar Application\MySampleViewModelApex.cs" />
+    <Compile Include="APEX AZF Nar Application\MySampleViewPageApex.xaml.cs">
+      <DependentUpon>MySampleViewPageApex.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="APEX BKC Application\IMyExtensionSampleViewApexBKC.cs" />
+    <Compile Include="APEX BKC Application\IMyExtensionSampleViewModelApexBKC.cs" />
+    <Compile Include="APEX BKC Application\IMySampleMenuViewApexBKC.cs" />
+    <Compile Include="APEX BKC Application\MySampleMenuViewApexBKC.xaml.cs">
+      <DependentUpon>MySampleMenuViewApexBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="APEX BKC Application\MySampleViewModelApexBKC.cs" />
+    <Compile Include="APEX BKC Application\MySampleViewPageApexBKC.xaml.cs">
+      <DependentUpon>MySampleViewPageApexBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cube application\extensionSampleViewCube.cs" />
+    <Compile Include="Cube application\MySampleViewModelCube.cs" />
+    <Compile Include="Cube application\sampleMenuViewCubeinterface.cs" />
+    <Compile Include="Cube application\sampleMenuViewCube.xaml.cs">
+      <DependentUpon>sampleMenuViewCube.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cube application\sampleViewCube.xaml.cs">
+      <DependentUpon>sampleViewCube.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cube application\sampleViewModelCube.cs" />
+    <Compile Include="CustomCommand\CTICommands.cs" />
+    <Compile Include="CustomCommand\CustomCommand.cs" />
+    <Compile Include="DispositionCodeEx\DispositionCodeExView.xaml.cs">
+      <DependentUpon>DispositionCodeExView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HLR AZF Nar Application\IMyExtensionSampleViewHLR.cs" />
+    <Compile Include="HLR AZF Nar Application\IMyExtensionSampleViewModelHLR.cs" />
+    <Compile Include="HLR AZF Nar Application\IMySampleMenuViewHLR.cs" />
+    <Compile Include="HLR AZF Nar Application\MySampleMenuViewHLR.xaml.cs">
+      <DependentUpon>MySampleMenuViewHLR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HLR AZF Nar Application\MySampleViewModelHLR.cs" />
+    <Compile Include="HLR AZF Nar Application\MySampleViewPageHLR.xaml.cs">
+      <DependentUpon>MySampleViewPageHLR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HLR BKC Application\IMyExtensionSampleViewHLRBKC.cs" />
+    <Compile Include="HLR BKC Application\IMyExtensionSampleViewModelHLRBKC.cs" />
+    <Compile Include="HLR BKC Application\IMySampleMenuViewHLRBKC.cs" />
+    <Compile Include="HLR BKC Application\MySampleMenuViewHLRBKC.xaml.cs">
+      <DependentUpon>MySampleMenuViewHLRBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HLR BKC Application\MySampleViewModelHLRBKC.cs" />
+    <Compile Include="HLR BKC Application\MySampleViewPageHLRBKC.xaml.cs">
+      <DependentUpon>MySampleViewPageHLRBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Huawei CRM AZF Nar\IextensionSampleView.cs" />
+    <Compile Include="Huawei CRM AZF Nar\IextensionSampleViewModel.cs" />
+    <Compile Include="Huawei CRM AZF Nar\IsampleMenuView.cs" />
+    <Compile Include="Huawei CRM AZF Nar\sampleMenuView.xaml.cs">
+      <DependentUpon>sampleMenuView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Huawei CRM AZF Nar\samplePresentationModel.cs" />
+    <Compile Include="Huawei CRM AZF Nar\sampleView.xaml.cs">
+      <DependentUpon>sampleView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Huawei CRM BKC Application\IMyExtensionSampleViewHuaweiCRMBKC.cs" />
+    <Compile Include="Huawei CRM BKC Application\IMyExtensionSampleViewModelHuaweiCRMBKC.cs" />
+    <Compile Include="Huawei CRM BKC Application\IMySampleMenuViewHuaweiCRMBKC.cs" />
+    <Compile Include="Huawei CRM BKC Application\MySampleMenuViewHuaweiCRMBKC.xaml.cs">
+      <DependentUpon>MySampleMenuViewHuaweiCRMBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Huawei CRM BKC Application\MySampleViewModelHuaweiCRMBKC.cs" />
+    <Compile Include="Huawei CRM BKC Application\MySampleViewPageHuaweiCRMBKC.xaml.cs">
+      <DependentUpon>MySampleViewPageHuaweiCRMBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu ApexBKC\IMySampleButtonViewApexBKC.cs" />
+    <Compile Include="slidemenu ApexBKC\IMySampleViewApexBKC.cs" />
+    <Compile Include="slidemenu ApexBKC\IMySampleViewModelApexBKC.cs" />
+    <Compile Include="slidemenu ApexBKC\MySampleButtonViewApexBKC.xaml.cs">
+      <DependentUpon>MySampleButtonViewApexBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu ApexBKC\MySampleViewApexBKC.xaml.cs">
+      <DependentUpon>MySampleViewApexBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu ApexBKC\MySampleViewModelApexBKC.cs" />
+    <Compile Include="slidemenu APEXNARApplication Appplication\IMySampleButtonViewCube.cs" />
+    <Compile Include="slidemenu APEXNARApplication Appplication\IMySampleViewCube.cs" />
+    <Compile Include="slidemenu APEXNARApplication Appplication\IMySampleViewModelCube.cs" />
+    <Compile Include="slidemenu APEXNARApplication Appplication\MySampleButtonViewCube.xaml.cs">
+      <DependentUpon>MySampleButtonViewCube.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu APEXNARApplication Appplication\MySampleViewCube.xaml.cs">
+      <DependentUpon>MySampleViewCube.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu APEXNARApplication Appplication\MySampleViewModelCube.cs" />
+    <Compile Include="slidemenu HLR AZF Nar Application\IMySampleButtonViewSlideHLR.cs" />
+    <Compile Include="slidemenu HLR AZF Nar Application\IMySampleViewModelSlideHLR.cs" />
+    <Compile Include="slidemenu HLR AZF Nar Application\IMySampleViewSlideHLR.cs" />
+    <Compile Include="slidemenu HLR AZF Nar Application\MySampleButtonViewSlideHLR.xaml.cs">
+      <DependentUpon>MySampleButtonViewSlideHLR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu HLR AZF Nar Application\MySampleViewModelSlideHLR.cs" />
+    <Compile Include="slidemenu HLR AZF Nar Application\MySampleViewSlideHLR.xaml.cs">
+      <DependentUpon>MySampleViewSlideHLR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu HLR BKC Appplication\IMySampleButtonViewHLRBKC.cs" />
+    <Compile Include="slidemenu HLR BKC Appplication\IMySampleViewHLRBKC.cs" />
+    <Compile Include="slidemenu HLR BKC Appplication\IMySampleViewModelHLRBKC.cs" />
+    <Compile Include="slidemenu HLR BKC Appplication\MySampleButtonViewHLRBKC.xaml.cs">
+      <DependentUpon>MySampleButtonViewHLRBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu HLR BKC Appplication\MySampleViewHLRBKC.xaml.cs">
+      <DependentUpon>MySampleViewHLRBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu HLR BKC Appplication\MySampleViewModelHLRBKC.cs" />
+    <Compile Include="slidemenu XDRview Application\IsampleButtonView.cs" />
+    <Compile Include="slidemenu XDRview Application\IsampleView.cs" />
+    <Compile Include="slidemenu XDRview Application\IsampleViewModel.cs" />
+    <Compile Include="slidemenu XDRview Application\sampleButtonView.xaml.cs">
+      <DependentUpon>sampleButtonView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu XDRview Application\sampleView.xaml.cs">
+      <DependentUpon>sampleView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="slidemenu XDRview Application\sampleViewModel.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\IMySampleButtonView.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\IMySamplePresentationModel.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\IMySampleView.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\MySampleButtonView.xaml.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\MySamplePresentationModel.cs" />
+    <Compile Include="slidemenu APEXAZFFIXED Appplication\MySampleView.xaml.cs" />
+    <Compile Include="view\IITabView.cs" />
+    <Compile Include="view\IITabViewModel.cs" />
+    <Compile Include="view\ITabView.xaml.cs" />
+    <Compile Include="view\ITabViewModel.cs" />
+    <Compile Include="XDR View BKC Application\IMyExtensionSampleViewXDRViewBKC.cs" />
+    <Compile Include="XDR View BKC Application\IMyExtensionSampleViewModelXDRViewBKC.cs" />
+    <Compile Include="XDR View BKC Application\IMySampleMenuViewXDRViewBKC.cs" />
+    <Compile Include="XDR View BKC Application\MySampleMenuViewHLRXDRViewBKC.xaml.cs">
+      <DependentUpon>MySampleMenuViewHLRXDRViewBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="XDR View BKC Application\MySampleViewModelXDRViewBKC.cs" />
+    <Compile Include="XDR View BKC Application\MySampleViewPageXDRViewBKC.xaml.cs">
+      <DependentUpon>MySampleViewPageXDRViewBKC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Zed Application\IMySampleMenuView.cs" />
+    <Compile Include="Zed Application\IMySamplePresentationModel.cs" />
+    <Compile Include="Zed Application\IMySampleView.cs" />
+    <Compile Include="Zed Application\MySampleMenuView.xaml.cs">
+      <DependentUpon>MySampleMenuView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Zed Application\MySamplePresentationModel.cs" />
+    <Compile Include="Zed Application\MySampleView.xaml.cs">
+      <DependentUpon>MySampleView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ExtensionSampleModule.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Genesyslab.Desktop.Modules.ExtensionSample.module-config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="APEX AZF Fixed Application\MySampleMenuViewApexFixed.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="APEX AZF Fixed Application\MySampleViewPageApexFixed.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="APEX AZF Nar Application\MySampleMenuViewApex.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="APEX AZF Nar Application\MySampleViewPageApex.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="APEX BKC Application\MySampleMenuViewApexBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="APEX BKC Application\MySampleViewPageApexBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cube application\sampleMenuViewCube.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cube application\sampleViewCube.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DispositionCodeEx\DispositionCodeExView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HLR AZF Nar Application\MySampleMenuViewHLR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HLR AZF Nar Application\MySampleViewPageHLR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HLR BKC Application\MySampleMenuViewHLRBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HLR BKC Application\MySampleViewPageHLRBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Huawei CRM AZF Nar\sampleMenuView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Huawei CRM AZF Nar\sampleView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Huawei CRM BKC Application\MySampleMenuViewHuaweiCRMBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Huawei CRM BKC Application\MySampleViewPageHuaweiCRMBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu ApexBKC\MySampleButtonViewApexBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu ApexBKC\MySampleViewApexBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu APEXNARApplication Appplication\MySampleButtonViewCube.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu APEXNARApplication Appplication\MySampleViewCube.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu HLR AZF Nar Application\MySampleButtonViewSlideHLR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu HLR AZF Nar Application\MySampleViewSlideHLR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu HLR BKC Appplication\MySampleButtonViewHLRBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu HLR BKC Appplication\MySampleViewHLRBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu XDRview Application\sampleButtonView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu XDRview Application\sampleView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="slidemenu APEXAZFFIXED Appplication\MySampleButtonView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="slidemenu APEXAZFFIXED Appplication\MySampleView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="view\ITabView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="XDR View BKC Application\MySampleMenuViewHLRXDRViewBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="XDR View BKC Application\MySampleViewPageXDRViewBKC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Zed Application\MySampleMenuView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Zed Application\MySampleView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Windows\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

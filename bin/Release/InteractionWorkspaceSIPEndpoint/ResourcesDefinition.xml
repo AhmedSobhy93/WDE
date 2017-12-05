@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+
+  <!--
+	This file allows to change branding images and text.
+	For instance, you can replace the embedded splashscreen resource:
+		"pack://application:,,,/InteractionWorkspaceSIPEndpoint;component/Images/Splash.png"
+	with a local image with a path relative to the application:
+		"MySplash.png"
+	or
+		"MyImagesFolder/MySplash.png"
+	-->
+
+
+   <Value Id="Common.Images.CompanyLogo" ResourceKey="Common.CompanyLogo" />
+  
+  <!-- Attachment End -->
+    <Value Id="Common.Images.Video.VideoCam" ResourceKey="ic_videocam_1"/>
+    <Value Id="Common.Images.Video.VideoCamDisable" ResourceKey="ic_videocam_1_disable"/>
+    <Value Id="Common.Images.Video.SwitchViews" ResourceKey="ic_iw_video_thumbnail_revert"/>
+    <Value Id="Common.Images.Video.ThumbnailHide" ResourceKey="ic_iw_video_thumbnail_hide"/>
+    <Value Id="Common.Images.Video.ThumbnailShow" ResourceKey="ic_iw_video_thumbnail_show"/>
+    <!-- Dictionary exported to InteractionWorkspace SIPEndpoint application for Video window and controls -->
+    <!-- _FMA_ _TODO_ -->
+    <Value Id="SIPEndpoint.ToolbarTitle" Text="Workspace" />
+    <Value Id="SIPEndpoint.SwitchViews" ToolTip="Switch Views" />
+    <Value Id="SIPEndpoint.ShowThumbnailVideo" ToolTip="Show Thumbnail Video" />
+    <Value Id="SIPEndpoint.HideThumbnailVideo" ToolTip="Hide Thumbnail Video" />
+    <Value Id="SIPEndpoint.MuteCamera" ToolTip="Stop Camera" />
+    <Value Id="SIPEndpoint.UnmuteCamera" ToolTip="Start Camera" />
+    <Value Id="SIPEndpoint.CameraStopped" ToolTip="Camera Stopped" />
+    <Value Id="SIPEndpoint.OnHold" Text="On Hold" />
+    <Value Id="SIPEndpoint.MenuItemExit" Header="Exit..." />
+    <Value Id="SIPEndpoint.SystrayIconTooltip" Tooltip="Workspace SIP Endpoint" />
+</Dictionary>
